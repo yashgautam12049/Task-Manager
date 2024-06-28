@@ -9,8 +9,4 @@ A simple task manager application built with React that allows users to add, del
 - Mark tasks as completed/incomplete
 - Persist tasks between sessions
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/task-manager.git
-   cd task-manager
+
